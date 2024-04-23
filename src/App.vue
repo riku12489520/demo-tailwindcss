@@ -45,6 +45,19 @@
         </div>
       </div>
     </div>
+
+    <div class="mt-[50px]">
+      <div class="border-2 rounded border-pink-200 mb-[50px] p-4">
+        <p class="text-lg font-bold text-cyan-500">@apply</p>
+        <hr class="my-3" />
+        <img src="/src/assets/images/apply.png" />
+      </div>
+      <div class="border-2 rounded border-pink-200 p-4">
+        <p class="text-lg font-bold text-cyan-500">@mixin、@include</p>
+        <hr class="my-3" />
+        <img src="/src/assets/images/mixin-include.png" />
+      </div>
+    </div>
   </div>
 </template>
 
